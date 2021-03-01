@@ -15,7 +15,7 @@ Admin-chooseMovie :
 
 ![ChooseMovie](https://user-images.githubusercontent.com/74245017/109516808-a1b86500-7ace-11eb-9b11-228015f9ba6b.png)
 
-Users-Ratings :
+View -Ratings :
 
 ![AllRatings](https://user-images.githubusercontent.com/74245017/109517196-007dde80-7acf-11eb-984e-8a397f54e441.png)
 
